@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+    align-items: center;
+}
+
+ul{
+    display: flex;
+    margin-top: 20px;
+    list-style: none;
+}
+
+
+
+
+h1{
+    display: flex;
+    align-items: center;
+    color: blue;
+    font-size: 150px;
+    
+}
+
+button{
+    background-color: rgb(21, 7, 207);
+    color: wheat;
+    cursor: pointer;
+    width: 90px;
+    height: 40px;
+}
